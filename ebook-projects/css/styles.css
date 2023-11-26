@@ -1,0 +1,18 @@
+.header {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.pt-7 {
+  padding-top: 110px;
+}
+
+.bg-dark1 {
+  background-color: cadetblue;
+  transition: 0.8s all ease-out;
+}
+
+.download {
+  background: url("../images/download-background.jpg") center center no-repeat;
+  background-size: cover;
+} 
